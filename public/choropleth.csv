@@ -1,0 +1,191 @@
+name,code,killed,attacks
+Dominican Republic,DOM,34,89
+Mexico,MEX,745,533
+Philippines,PHL,8391,7116
+Greece,GRC,259,1295
+Japan,JPN,62,395
+United States,USA,3835,2915
+Uruguay,URY,6,76
+Italy,ITA,420,1565
+East Germany (GDR),DEU,183,1292
+Guatemala,GTM,5030,1931
+Venezuela,VEN,253,295
+Switzerland,CHE,74,113
+Jordan,JOR,135,106
+Brazil,BRA,213,277
+Egypt,EGY,3917,2478
+Argentina,ARG,487,804
+Lebanon,LBN,3874,2332
+Ireland,IRL,105,303
+Turkey,TUR,5964,4129
+Paraguay,PRY,57,113
+Iran,IRN,1717,659
+United Kingdom,GBR,3403,5236
+Colombia,COL,13617,7994
+Nicaragua,NIC,7414,1573
+Spain,ESP,1274,3179
+Netherlands,NLD,35,131
+Belgium,BEL,83,153
+Canada,CAN,378,100
+Australia,AUS,24,110
+Pakistan,PAK,24372,14786
+Ethiopia,ETH,1560,178
+Sweden,SWE,22,134
+Costa Rica,CRI,17,67
+Bolivia,BOL,47,304
+South Yemen,YEM,9570,3588
+Cambodia,KHM,517,205
+Israel,ISR,1580,2020
+Poland,POL,9,40
+Taiwan,TWN,60,53
+Panama,PAN,38,126
+West Bank and Gaza Strip,PSE,1544,2455
+Austria,AUT,31,115
+India,IND,19046,12681
+France,FRA,546,2678
+South Vietnam,VNM,82,13
+Brunei,BRN,0,6
+Zaire,COD,5169,975
+People's Republic of the Congo,COG,192,36
+Portugal,PRT,32,139
+Algeria,DZA,9959,2560
+El Salvador,SLV,11315,4838
+Thailand,THA,2741,3993
+Haiti,HTI,336,217
+Sudan,SDN,3699,970
+Morocco,MAR,292,32
+Cyprus,CYP,45,127
+Afghanistan,AFG,49057,14410
+Peru,PER,11294,5809
+Chile,CHL,228,2361
+Honduras,HND,299,319
+Yugoslavia,MNE,121,210
+Ecuador,ECU,61,227
+New Zealand,NZL,1,20
+Zambia,ZMB,49,54
+Malaysia,MYS,155,105
+Singapore,SGP,5,7
+Botswana,BWA,11,9
+Kuwait,KWT,61,59
+Jamaica,JAM,37,34
+Chad,TCD,985,89
+Syria,SYR,16667,2401
+South Korea,KOR,10,39
+United Arab Emirates,ARE,123,20
+South Africa,ZAF,2503,1939
+Kenya,KEN,1882,715
+Iraq,IRQ,79729,25896
+Somalia,SOM,11310,4624
+Sri Lanka,LKA,14951,2910
+Namibia,NAM,206,135
+Bahamas,BHS,1,5
+Nigeria,NGA,25222,4513
+Barbados,BRB,76,3
+Trinidad and Tobago,TTO,6,23
+Myanmar,MMR,1068,547
+Bangladesh,BGD,1117,1611
+Angola,AGO,2535,463
+Mauritania,MRT,43,16
+Djibouti,DJI,270,21
+Indonesia,IDN,1291,788
+Rhodesia,ZWE,311,155
+Russia,RUS,4420,2286
+Guyana,GUY,41,26
+Mozambique,MOZ,2729,400
+Tunisia,TUN,365,124
+Denmark,DNK,5,42
+Uganda,UGA,2980,389
+Norway,NOR,79,19
+Lesotho,LSO,35,25
+Tanzania,TZA,56,56
+Gabon,GAB,6,7
+Libya,LBY,2805,2389
+Saudi Arabia,SAU,677,451
+Bahrain,BHR,44,200
+Hong Kong,HKG,4,25
+Senegal,SEN,216,84
+Guinea,GIN,214,26
+Grenada,GRD,8,4
+New Hebrides,VUT,0,3
+Belize,BLZ,1,7
+Guadeloupe,GLP,8,39
+Martinique,MTQ,0,11
+Vatican City,VAT,0,1
+Albania,ALB,41,78
+Central African Republic,CAF,2147,312
+Seychelles,SYC,0,2
+Dominica,DMA,3,3
+Qatar,QAT,4,6
+Bulgaria,BGR,28,53
+Suriname,SUR,29,62
+Swaziland,NOT FIND,2,15
+Luxembourg,LUX,0,12
+Iceland,ISL,0,4
+French Guiana,GUF,1,7
+Falkland Islands,FLK,0,1
+Western Sahara,ESH,0,5
+Burkina Faso,BFA,248,119
+Malta,MLT,4,22
+New Caledonia,NCL,34,49
+Romania,ROU,4,6
+Niger,NER,1543,169
+Nepal,NPL,1957,1305
+Togo,TGO,31,40
+Finland,FIN,11,21
+Fiji,FJI,8,17
+Ghana,GHA,12,18
+Maldives,MDV,20,23
+Mauritius,MUS,0,2
+Czechoslovakia,CZE,7,41
+Hungary,HUN,6,46
+Laos,LAO,25,24
+Papua New Guinea,PNG,79,89
+China,CHN,1006,249
+Liberia,LBR,176,33
+Mali,MLI,1885,704
+Rwanda,RWA,3152,153
+Sierra Leone,SLE,819,91
+Cameroon,CMR,2576,568
+Cuba,CUB,8,28
+Croatia,HRV,248,56
+Georgia,GEO,277,214
+Azerbaijan,AZE,186,45
+Madagascar,MDG,31,27
+Lithuania,LTU,1,9
+Burundi,BDI,3327,596
+Ukraine,UKR,2266,1738
+Moldova,MDA,11,20
+Armenia,ARM,37,25
+Ivory Coast,CIV,262,72
+Kazakhstan,KAZ,39,26
+Antigua and Barbuda,ATG,0,1
+Bosnia-Herzegovina,BIH,79,159
+Tajikistan,TJK,313,182
+Malawi,MWI,33,7
+Uzbekistan,UZB,68,21
+Latvia,LVA,2,17
+Estonia,EST,3,12
+Comoros,COM,1,7
+Benin,BEN,0,7
+Slovak Republic,SVK,9,19
+Macedonia,MKD,49,115
+Wallis and Futuna,WLF,0,1
+Belarus,BLR,14,13
+Slovenia,SVN,1,6
+Gambia,GMB,13,3
+North Korea,PRK,3,1
+Eritrea,ERI,42,6
+St. Kitts and Nevis,KNA,0,1
+French Polynesia,PYF,0,3
+Macau,MAC,1,33
+Kyrgyzstan,KGZ,11,36
+Kosovo,XKX,82,196
+Solomon Islands,SLB,4,4
+East Timor,TLS,8,8
+St. Lucia,LCA,2,1
+Guinea-Bissau,GNB,17,9
+Turkmenistan,TKM,3,2
+Serbia-Montenegro,SRB,6,25
+Bhutan,BTN,9,5
+Equatorial Guinea,GNQ,1,1
+South Sudan,SSD,2720,258

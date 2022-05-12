@@ -1,0 +1,219 @@
+gname,type,category,attacks
+Taliban,1,Bombing/Explosion,2799
+Taliban,1,Armed Assault,2430
+Taliban,1,Hostage Taking (Kidnapping),535
+Taliban,1,Assassination,516
+Taliban,1,Facility/Infrastructure Attack,234
+Taliban,1,other,74
+Taliban,2,Police,2273
+Taliban,2,Military,1286
+Taliban,2,Private Citizens & Property,1274
+Taliban,2,Government (General),881
+Taliban,2,Business,212
+Taliban,2,other,662
+Taliban,3,Explosives,3166
+Taliban,3,Firearms,3032
+Taliban,3,Incendiary,247
+Taliban,3,Melee,108
+Taliban,3,Chemical,23
+Taliban,3,other,12
+Taliban,4,Afghanistan,6543
+Taliban,4,Pakistan,43
+Taliban,4,Turkmenistan,1
+Taliban,4,Tajikistan,1
+Islamic State of Iraq and the Levant (ISIL),1,Bombing/Explosion,3825
+Islamic State of Iraq and the Levant (ISIL),1,Armed Assault,512
+Islamic State of Iraq and the Levant (ISIL),1,Hostage Taking (Kidnapping),294
+Islamic State of Iraq and the Levant (ISIL),1,Assassination,132
+Islamic State of Iraq and the Levant (ISIL),1,Facility/Infrastructure Attack,40
+Islamic State of Iraq and the Levant (ISIL),1,other,24
+Islamic State of Iraq and the Levant (ISIL),2,Private Citizens & Property,1992
+Islamic State of Iraq and the Levant (ISIL),2,Military,1226
+Islamic State of Iraq and the Levant (ISIL),2,Police,639
+Islamic State of Iraq and the Levant (ISIL),2,Business,238
+Islamic State of Iraq and the Levant (ISIL),2,Terrorists/Non-State Militia,204
+Islamic State of Iraq and the Levant (ISIL),2,other,528
+Islamic State of Iraq and the Levant (ISIL),3,Explosives,3968
+Islamic State of Iraq and the Levant (ISIL),3,Firearms,690
+Islamic State of Iraq and the Levant (ISIL),3,Melee,64
+Islamic State of Iraq and the Levant (ISIL),3,Incendiary,51
+Islamic State of Iraq and the Levant (ISIL),3,Chemical,41
+Islamic State of Iraq and the Levant (ISIL),3,other,13
+Islamic State of Iraq and the Levant (ISIL),4,Iraq,4124
+Islamic State of Iraq and the Levant (ISIL),4,Syria,490
+Islamic State of Iraq and the Levant (ISIL),4,Turkey,78
+Islamic State of Iraq and the Levant (ISIL),4,Lebanon,41
+Islamic State of Iraq and the Levant (ISIL),4,Philippines,29
+Islamic State of Iraq and the Levant (ISIL),4,other,65
+Shining Path (SL),1,Bombing/Explosion,2065
+Shining Path (SL),1,Armed Assault,1036
+Shining Path (SL),1,Assassination,725
+Shining Path (SL),1,Facility/Infrastructure Attack,154
+Shining Path (SL),1,Hostage Taking (Kidnapping),30
+Shining Path (SL),1,other,24
+Shining Path (SL),2,Private Citizens & Property,711
+Shining Path (SL),2,Business,694
+Shining Path (SL),2,Government (General),665
+Shining Path (SL),2,Police,543
+Shining Path (SL),2,Utilities,506
+Shining Path (SL),2,other,915
+Shining Path (SL),3,Explosives,2041
+Shining Path (SL),3,Firearms,1781
+Shining Path (SL),3,Incendiary,174
+Shining Path (SL),3,Melee,32
+Shining Path (SL),3,Sabotage Equipment,3
+Shining Path (SL),3,other,3
+Shining Path (SL),4,Peru,4025
+Shining Path (SL),4,Bolivia,5
+Shining Path (SL),4,Colombia,2
+Shining Path (SL),4,Brazil,1
+Shining Path (SL),4,Mexico,1
+Al-Shabaab,1,Bombing/Explosion,1342
+Al-Shabaab,1,Armed Assault,1128
+Al-Shabaab,1,Assassination,361
+Al-Shabaab,1,Hostage Taking (Kidnapping),159
+Al-Shabaab,1,Facility/Infrastructure Attack,50
+Al-Shabaab,1,other,54
+Al-Shabaab,2,Military,1352
+Al-Shabaab,2,Private Citizens & Property,499
+Al-Shabaab,2,Government (General),494
+Al-Shabaab,2,Police,279
+Al-Shabaab,2,Business,174
+Al-Shabaab,2,other,296
+Al-Shabaab,3,Explosives,1716
+Al-Shabaab,3,Firearms,1247
+Al-Shabaab,3,Melee,76
+Al-Shabaab,3,Incendiary,46
+Al-Shabaab,3,Other,7
+Al-Shabaab,3,other,2
+Al-Shabaab,4,Somalia,2668
+Al-Shabaab,4,Kenya,418
+Al-Shabaab,4,Uganda,4
+Al-Shabaab,4,Ethiopia,3
+Al-Shabaab,4,Djibouti,1
+Farabundo Marti National Liberation Front (FMLN),1,Armed Assault,1462
+Farabundo Marti National Liberation Front (FMLN),1,Bombing/Explosion,1186
+Farabundo Marti National Liberation Front (FMLN),1,Assassination,112
+Farabundo Marti National Liberation Front (FMLN),1,Facility/Infrastructure Attack,86
+Farabundo Marti National Liberation Front (FMLN),1,Hostage Taking (Barricade Incident),48
+Farabundo Marti National Liberation Front (FMLN),1,Hostage Taking (Kidnapping),21
+Farabundo Marti National Liberation Front (FMLN),2,Military,1122
+Farabundo Marti National Liberation Front (FMLN),2,Utilities,717
+Farabundo Marti National Liberation Front (FMLN),2,Private Citizens & Property,337
+Farabundo Marti National Liberation Front (FMLN),2,Business,243
+Farabundo Marti National Liberation Front (FMLN),2,Government (General),125
+Farabundo Marti National Liberation Front (FMLN),2,other,371
+Farabundo Marti National Liberation Front (FMLN),3,Firearms,1678
+Farabundo Marti National Liberation Front (FMLN),3,Explosives,1137
+Farabundo Marti National Liberation Front (FMLN),3,Incendiary,96
+Farabundo Marti National Liberation Front (FMLN),3,Sabotage Equipment,3
+Farabundo Marti National Liberation Front (FMLN),3,Melee,1
+Farabundo Marti National Liberation Front (FMLN),4,El Salvador,2898
+Farabundo Marti National Liberation Front (FMLN),4,Honduras,11
+Farabundo Marti National Liberation Front (FMLN),4,Guatemala,4
+Farabundo Marti National Liberation Front (FMLN),4,Costa Rica,1
+Farabundo Marti National Liberation Front (FMLN),4,Nicaragua,1
+Liberation Tigers of Tamil Eelam (LTTE),1,Bombing/Explosion,635
+Liberation Tigers of Tamil Eelam (LTTE),1,Armed Assault,598
+Liberation Tigers of Tamil Eelam (LTTE),1,Assassination,116
+Liberation Tigers of Tamil Eelam (LTTE),1,Hostage Taking (Kidnapping),25
+Liberation Tigers of Tamil Eelam (LTTE),1,Facility/Infrastructure Attack,10
+Liberation Tigers of Tamil Eelam (LTTE),1,other,4
+Liberation Tigers of Tamil Eelam (LTTE),2,Military,488
+Liberation Tigers of Tamil Eelam (LTTE),2,Private Citizens & Property,267
+Liberation Tigers of Tamil Eelam (LTTE),2,Police,205
+Liberation Tigers of Tamil Eelam (LTTE),2,Government (General),114
+Liberation Tigers of Tamil Eelam (LTTE),2,Transportation,111
+Liberation Tigers of Tamil Eelam (LTTE),2,other,203
+Liberation Tigers of Tamil Eelam (LTTE),3,Firearms,717
+Liberation Tigers of Tamil Eelam (LTTE),3,Explosives,639
+Liberation Tigers of Tamil Eelam (LTTE),3,Melee,21
+Liberation Tigers of Tamil Eelam (LTTE),3,Incendiary,9
+Liberation Tigers of Tamil Eelam (LTTE),3,Chemical,2
+Liberation Tigers of Tamil Eelam (LTTE),4,Sri Lanka,1380
+Liberation Tigers of Tamil Eelam (LTTE),4,India,7
+Liberation Tigers of Tamil Eelam (LTTE),4,Italy,1
+Tehrik-i-Taliban Pakistan (TTP),1,Bombing/Explosion,664
+Tehrik-i-Taliban Pakistan (TTP),1,Armed Assault,376
+Tehrik-i-Taliban Pakistan (TTP),1,Assassination,139
+Tehrik-i-Taliban Pakistan (TTP),1,Hostage Taking (Kidnapping),79
+Tehrik-i-Taliban Pakistan (TTP),1,Facility/Infrastructure Attack,46
+Tehrik-i-Taliban Pakistan (TTP),1,other,12
+Tehrik-i-Taliban Pakistan (TTP),2,Military,285
+Tehrik-i-Taliban Pakistan (TTP),2,Private Citizens & Property,274
+Tehrik-i-Taliban Pakistan (TTP),2,Police,239
+Tehrik-i-Taliban Pakistan (TTP),2,Educational Institution,162
+Tehrik-i-Taliban Pakistan (TTP),2,Government (General),89
+Tehrik-i-Taliban Pakistan (TTP),2,other,267
+Tehrik-i-Taliban Pakistan (TTP),3,Explosives,781
+Tehrik-i-Taliban Pakistan (TTP),3,Firearms,469
+Tehrik-i-Taliban Pakistan (TTP),3,Incendiary,41
+Tehrik-i-Taliban Pakistan (TTP),3,Melee,25
+Tehrik-i-Taliban Pakistan (TTP),4,Pakistan,1305
+Tehrik-i-Taliban Pakistan (TTP),4,Afghanistan,10
+Tehrik-i-Taliban Pakistan (TTP),4,United States,1
+New People's Army (NPA),1,Armed Assault,1107
+New People's Army (NPA),1,Bombing/Explosion,432
+New People's Army (NPA),1,Facility/Infrastructure Attack,352
+New People's Army (NPA),1,Assassination,333
+New People's Army (NPA),1,Hostage Taking (Kidnapping),149
+New People's Army (NPA),1,other,56
+New People's Army (NPA),2,Military,914
+New People's Army (NPA),2,Business,403
+New People's Army (NPA),2,Police,382
+New People's Army (NPA),2,Private Citizens & Property,273
+New People's Army (NPA),2,Government (General),245
+New People's Army (NPA),2,other,212
+New People's Army (NPA),3,Firearms,1674
+New People's Army (NPA),3,Explosives,466
+New People's Army (NPA),3,Incendiary,280
+New People's Army (NPA),3,Melee,9
+New People's Army (NPA),4,Philippines,2427
+New People's Army (NPA),4,Pakistan,1
+New People's Army (NPA),4,India,1
+Boko Haram,1,Armed Assault,1119
+Boko Haram,1,Bombing/Explosion,815
+Boko Haram,1,Hostage Taking (Kidnapping),181
+Boko Haram,1,Facility/Infrastructure Attack,160
+Boko Haram,1,Assassination,54
+Boko Haram,1,other,16
+Boko Haram,2,Private Citizens & Property,1110
+Boko Haram,2,Military,344
+Boko Haram,2,Police,246
+Boko Haram,2,Religious Figures/Institutions,177
+Boko Haram,2,Government (General),136
+Boko Haram,2,other,332
+Boko Haram,3,Firearms,1096
+Boko Haram,3,Explosives,1027
+Boko Haram,3,Incendiary,184
+Boko Haram,3,Melee,37
+Boko Haram,3,Chemical,1
+Boko Haram,4,Nigeria,2081
+Boko Haram,4,Cameroon,181
+Boko Haram,4,Niger,55
+Boko Haram,4,Chad,26
+Boko Haram,4,Burkina Faso,1
+Boko Haram,4,Mali,1
+Irish Republican Army (IRA),1,Bombing/Explosion,1093
+Irish Republican Army (IRA),1,Assassination,825
+Irish Republican Army (IRA),1,Armed Assault,291
+Irish Republican Army (IRA),1,Facility/Infrastructure Attack,242
+Irish Republican Army (IRA),1,Hostage Taking (Kidnapping),24
+Irish Republican Army (IRA),1,other,10
+Irish Republican Army (IRA),2,Military,748
+Irish Republican Army (IRA),2,Police,518
+Irish Republican Army (IRA),2,Business,471
+Irish Republican Army (IRA),2,Private Citizens & Property,403
+Irish Republican Army (IRA),2,Government (General),153
+Irish Republican Army (IRA),2,other,192
+Irish Republican Army (IRA),3,Explosives,1199
+Irish Republican Army (IRA),3,Firearms,1025
+Irish Republican Army (IRA),3,Incendiary,253
+Irish Republican Army (IRA),3,Melee,7
+Irish Republican Army (IRA),3,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",1
+Irish Republican Army (IRA),4,United Kingdom,2406
+Irish Republican Army (IRA),4,Ireland,44
+Irish Republican Army (IRA),4,West Germany (FRG),19
+Irish Republican Army (IRA),4,Netherlands,4
+Irish Republican Army (IRA),4,Belgium,3
+Irish Republican Army (IRA),4,other,9
