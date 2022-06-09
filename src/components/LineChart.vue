@@ -51,7 +51,7 @@
 		var filteredData = data.filter(d => d.type == type)
 		result = filteredData.map(d => ({
 			year: d.year,
-			value: d. [category]
+			value: d[category]
 		}))
 		return result
 	}

@@ -77,7 +77,7 @@
 		data = rawData.map(d => ({
 			year: d.year,
 			name: d.name,
-			value: d. [category]
+			value: d[category]
 		}))
 		return data
 	}

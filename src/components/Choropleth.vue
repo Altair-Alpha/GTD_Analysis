@@ -40,7 +40,7 @@
 		data = rawData.map(d => ({
 			name: d.name,
 			code: d.code,
-			value: d. [category]
+			value: d[category]
 		}));
 		for (let i = 0; i < data.length; i++) {
 			dataMap.set(data[i].code, data[i].value)
